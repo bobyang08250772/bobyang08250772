@@ -9,7 +9,7 @@
 
 ### 🚀 Tech Stack
 
-![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg =40x40)
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg=40x40)
 ![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg =40x40)
 ![Angular](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg =40x40)
 ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg =40x40)
