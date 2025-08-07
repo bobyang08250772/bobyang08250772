@@ -16,15 +16,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" style="display: inline-block;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" style="display: inline-block;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" style="display: inline-block;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" width="40" style="display: inline-block;" />
+
 </p>
 
 
-
----
-
-![Snake animation](https://raw.githubusercontent.com/bobyang08250772/bobyang08250772/output/snake.svg)
-
----
 
 ### 🔗 Connect with Me
 
